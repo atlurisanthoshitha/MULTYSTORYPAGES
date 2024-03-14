@@ -1,0 +1,13 @@
+body{
+    background-color: mistyrose;
+    background: url("./Backgroundofkuchipudi.avif");
+    background-repeat: no-repeat;
+    background-size: 1500px 1100px;
+}
+img{
+    width: auto;
+    height: 350px;
+}
+h1{
+    text-align: center;
+}
